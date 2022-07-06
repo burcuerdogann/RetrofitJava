@@ -2,6 +2,6 @@
 
 Android Development / Java Tutorial - Lesson 22
 
-CryptoCurrencies Mobile Application (Java)
+CryptoCurrencies Android Application (Java)
 
 Refrofit | RxJava | JSON API | RecyclerView
