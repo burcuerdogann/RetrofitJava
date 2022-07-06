@@ -2,4 +2,4 @@
 
 Android Development / Java Tutorial - Lesson 22
 
-Refrofit | JSON API
+Refrofit | RxJava | JSON API | RecyclerView
